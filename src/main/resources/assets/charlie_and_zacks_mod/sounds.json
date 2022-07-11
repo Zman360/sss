@@ -1,0 +1,29 @@
+{
+  "kirb": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "charlie_and_zacks_mod:kirby_green_greens_x_reeses_puffs_remixed_naz3nt_remix",
+        "stream": false
+      }
+    ]
+  },
+  "jsans": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "charlie_and_zacks_mod:jojo_megalovania",
+        "stream": false
+      }
+    ]
+  },
+  "dd": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "charlie_and_zacks_mod:masked_and_wild_ddd___kirby_and_the_forgotten_land_ost_061",
+        "stream": false
+      }
+    ]
+  }
+}

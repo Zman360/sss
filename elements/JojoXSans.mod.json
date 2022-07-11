@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "d",
+    "name": "Jojo X Sans",
+    "description": "It's a banger",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:jsans"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

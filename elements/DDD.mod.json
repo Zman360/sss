@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sdasd",
+    "name": "DDD",
+    "description": "Masked and Wild",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:dd"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

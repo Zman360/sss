@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc",
+    "name": "Kirb X Puff",
+    "description": "Kirby Puffs ",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:kirb"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

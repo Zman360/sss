@@ -1,0 +1,39 @@
+{
+  "_fv": 28,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "sddsd",
+    "customModelName": "Normal",
+    "name": "Boneluancher",
+    "specialInfo": [
+      "Bone Launcher"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 326,
+    "actionSound": {
+      "value": "entity.skeleton.hurt"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 9,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Items.BONE"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}
